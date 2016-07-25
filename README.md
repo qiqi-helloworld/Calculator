@@ -7,4 +7,4 @@
 ####1.First download .zip file to your computer
 ####2.unzip it
 ####3.import to your eclipse or Idea,or other  integrated JAVA IDES
-####4.Run the main.java
+####4.Run the appCaculator.java
